@@ -3,7 +3,7 @@
   "id": "linen",
   "name": "Linen",
   "author": "Multica",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Warm paper tones with ink-brown accents. The sample theme for the Multica theme store: fork it to start your own.",
   "options": [
     {
@@ -12,9 +12,18 @@
       "label": "Accent",
       "default": "oklch(0.45 0.09 55)",
       "choices": [
-        { "value": "oklch(0.45 0.09 55)", "label": "Walnut" },
-        { "value": "oklch(0.45 0.08 150)", "label": "Sage" },
-        { "value": "oklch(0.45 0.1 250)", "label": "Indigo" }
+        {
+          "value": "oklch(0.45 0.09 55)",
+          "label": "Walnut"
+        },
+        {
+          "value": "oklch(0.45 0.08 150)",
+          "label": "Sage"
+        },
+        {
+          "value": "oklch(0.45 0.1 250)",
+          "label": "Indigo"
+        }
       ]
     }
   ]
