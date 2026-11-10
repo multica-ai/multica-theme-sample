@@ -2,7 +2,7 @@
 
 Warm paper tones with ink-brown accents for [Multica](https://multica.ai). This is the sample theme of the [Multica theme store](https://github.com/multica-ai/multica-themes): fork it to start your own.
 
-Install it from **Settings → Appearance → Browse** in Multica, or download `theme.zip` from the latest release and import it.
+Install it from **Settings → Appearance → Manage** in Multica, or download `theme.zip` from the latest release and import it.
 
 ## Make your own from this
 
